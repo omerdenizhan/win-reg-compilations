@@ -16,7 +16,7 @@ You can use it on Windows 7/8/10/11 operating systems.
 You can use it by downloading the compilations.reg file to your computer or by downloading the file inside the releases folder and running it as administrator.
 
 ## 🕰️ Last Update
-July 17, 2026
+Sept 15, 2026
 
 ---
 <p align="center">❤️ Made with Love ❤️</p>
