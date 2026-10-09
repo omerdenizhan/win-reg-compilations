@@ -15,13 +15,9 @@ You can use it on Windows 7/8/10/11 operating systems.
 ## 📌 How to Use
 You can use it by downloading the compilations.reg file to your computer or by downloading the file inside the releases folder and running it as administrator.
 
----
-
 ## 📄 License
 
 This project is released into the public domain under the [Unlicense](https://unlicense.org/); you are free to use, modify, and distribute it as you wish. See the [`LICENSE`](LICENSE) file for details.
-
----
 
 ## 🕰️ Last Update
 Oct 09, 2026
